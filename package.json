@@ -1,0 +1,27 @@
+{
+  "name": "postcss-tutorial",
+  "version": "1.0.0",
+  "description": "Trying some shiz",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^2.0.2"
+  },
+  "scripts": {
+    "build:css": "tailwind build ./src/style.css -o ./dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djsnipa1/postcss-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djsnipa1/postcss-tutorial/issues"
+  },
+  "homepage": "https://github.com/djsnipa1/postcss-tutorial#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.4"
+  }
+}
