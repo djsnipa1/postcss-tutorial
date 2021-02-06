@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+node_modules/
+=======
+>>>>>>> 47dc35615b7f53f485f6bcd4d18d90ec3e169a81
 
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
@@ -117,3 +123,7 @@ dist
 .vscode-test
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> 47dc35615b7f53f485f6bcd4d18d90ec3e169a81
